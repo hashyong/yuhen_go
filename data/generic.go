@@ -1,7 +1,7 @@
 package data
 
 /*泛型 是一种代码复用技术，也称作 模板 template
-允许再强类型语言代码中，使用实例化时才指定的类型参数type parameter
+允许在强类型语言代码中，使用实例化时才指定的类型参数type parameter
 
 - 函数和类型（包括接口）支持类型参数，方法暂不支持
 - 支持推导，可以省略类型实参 type argument
